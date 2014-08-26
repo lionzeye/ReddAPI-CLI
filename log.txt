@@ -1,0 +1,4 @@
+getuserinfo
+https://api.reddapi.com/v1/json/GetUserInfo/vjfdl8WE89QERM77B3vO3Ca68BkU6fsY5717TJ2P1dtaZ8CnJO0fTXStKhekZBGz/LS_
+---USER-INFO------
+{ ErrorMessage: 'An unknown error came out of no where! I was not expecting that, and I\'m sorry. I have emailed the person who wrote the code that broke and we will punish them accordingly.' }
