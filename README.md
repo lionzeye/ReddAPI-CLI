@@ -10,7 +10,7 @@ an account on [ReddAPI](https://reddapi.com)
 
 ###Usage:
 
-Add Get-Key and Post-Key
+Add Get-Key and Post-Key to config.js
 
 ```
 node ReddAPICLI <command> [arguments] [ > logfile.txt]
@@ -47,14 +47,14 @@ node ReddAPICLI GetUserBalanceDetail foo
 
 #####Command: GetUserList
 - Required arguments: NONE
-Example: 
+- Example: 
 ```
 node ReddAPICLI GetUserList
 ```
 
 #####Command: GetUserList
-Required arguments: username (String
-Example: 
+- Required arguments: username (String
+- Example: 
 ```
 node ReddAPICLI GetUserInfo
 ```
